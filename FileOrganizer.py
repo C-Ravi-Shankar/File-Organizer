@@ -1,4 +1,4 @@
-#Level-3 Task-3 "Automating File Organization"
+#"Automating File Organization"
 
 import os
 import shutil
